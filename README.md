@@ -16,3 +16,13 @@ Download file osce.exe.
 Klik dua kali file tersebut, dan aplikasi siap digunakan!
 
 Jika saat pertama kali muncul pop up windows tekan next / continue 
+
+How to Use (Without Installing Python):
+
+Go to the page [(https://github.com/maulanarizqi/OSCE-Timer-GUI-ID/releases/tag/OSCE)]
+
+Download the osce.exe file.
+
+Double-click the file, and the application is ready to use!
+
+If a Windows pop-up appears the first time you run it, click Next or Continue.
