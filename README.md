@@ -5,5 +5,4 @@ Aplikasi ini adalah modifikasi berbasis antarmuka (GUI) dan penambahan fitur Goo
 
 This application is a modification of Quinexus's original CLI-based project, featuring a graphical user interface (GUI) and the addition of Indonesian Google Text-to-Speech capabilities.
 
-
-![Uploading image.png…]()
+<img width="1655" height="1358" alt="image" src="https://github.com/user-attachments/assets/4e823fb8-bc2d-470c-b6a5-1a3b08b5061f" />
